@@ -20,7 +20,7 @@
     "hogan.js": "^3.0.2"
   },
   "devDependencies": {
-    "eslint": "^7.25.0",
+    "eslint": "^7.29.0",
     "eslint-config-wikimedia": "^0.5.0",
     "grunt": "^1.4.0",
     "grunt-autoprefixer": "^3.0.4",
